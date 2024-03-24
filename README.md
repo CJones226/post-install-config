@@ -27,6 +27,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<h3>Opening osTicket</h3>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Before we begin configuring we will need to open the website which osTicket is being hosted on. When you have completed the last section, should have taken you to the page above, you should then click on the url under "Your osTicket URL"
+</p>
+
 <h3>Configuring Roles</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
