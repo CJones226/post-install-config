@@ -41,7 +41,7 @@ Before we begin configuring we will need to open the website which osTicket is b
 <h3>Configuring Roles</h3>
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/9e2c3796-96ca-4bca-a8bd-e269959384f1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://github.com/CJones226/post-install-config/assets/158533476/f3348976-b1da-4ecf-b4b0-0ea896974f72" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
