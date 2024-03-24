@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Before we begin configuring we will need to open the website which osTicket is being hosted on. When you have completed the last section, should have taken you to the page above, you should then click on the url under "Your osTicket URL"
+Before we begin configuring we will need to open the website which osTicket is being hosted on. When you have completed the last section, should have taken you to the page above, you should then click on the url under "Your osTicket URL" once you get there you need to click on sign in, and then as an agent. The agent we created is John Doe, username johndoe and password is "password1"
 </p>
 
 <h3>Configuring Roles</h3>
