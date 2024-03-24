@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Opening osTicket</h3>
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/820803e7-478f-45ba-86db-087317975042" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://github.com/CJones226/post-install-config/assets/158533476/820803e7-478f-45ba-86db-087317975042" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://github.com/CJones226/post-install-config/assets/158533476/96c46250-891c-43f9-b129-80b89c58d035" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://github.com/CJones226/post-install-config/assets/158533476/820803e7-478f-45ba-86db-087317975042" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://github.com/CJones226/post-install-config/assets/158533476/820803e7-478f-45ba-86db-087317975042" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
