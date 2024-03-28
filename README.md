@@ -42,10 +42,11 @@ Opening osTicket is relatively simple, you just have to click on this link on th
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/cb16f885-4603-4978-81de-00421c6e86d6" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-<h4></h4>
+<h4>Sign in as Agent</h4>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%"
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/aa4678ed-04c5-40c9-a0fc-54aa4a468746" height="60%" width="60%"
 </p>
+When you get to this page you will want to click on 'sign in' next to the 
 
 <h3>Configuring Roles</h3>
 <p>
