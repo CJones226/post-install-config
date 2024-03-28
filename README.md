@@ -63,7 +63,7 @@ Within osTicket there is a plethora of roles that can be added and changed at an
 <h4>Admin Panel</h4>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.pmg" height="60%" width="60%"
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/f96760f4-3700-478b-b519-136e73b119b9" height="60%" width="60%"
 </p>
 
 <h3>Configuring Departments</h3>
