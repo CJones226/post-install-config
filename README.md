@@ -28,12 +28,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <h1>Login</h1>
-<h4>Logging into osTicket can be a little bit confusing in the beginning so if you are having difficulty, you can just follow along the pictures here or skip down to 'Configuring Roles'.</h4>
+<h4>Logging into osTicket can be a little bit confusing in the beginning so if you are having difficulty, you can just follow along the pictures here, otherwise skip down to 'Configuring Roles'.</h4>
 <p>
 <h4>Step 1: Opening osTicket</h4>
 </p>
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/1a8c8228-4839-4152-a0af-56d15b557fc7" height="80%" width="80%" alt"Disk Sanitization Steps"/>
+</p>
+<p>
+<h4>Step 2: Sign In</h4>
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h3>Configuring Roles</h3>
