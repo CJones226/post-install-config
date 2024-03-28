@@ -35,11 +35,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/1a8c8228-4839-4152-a0af-56d15b557fc7" height="60%" width="60%" alt"Disk Sanitization Steps"/>
 </p>
+Opening osTicket is relatively simple, you just have to click on this link on the main page of the website. Once done it will navigate to the following page, where you will click on 'sign in' in the upper right hand corner.
 <p>
 <h4>Step 2: Sign In</h4>
 </p>
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/cb16f885-4603-4978-81de-00421c6e86d6" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<h4></h4>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%"
 </p>
 
 <h3>Configuring Roles</h3>
