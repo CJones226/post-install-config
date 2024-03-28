@@ -35,7 +35,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/1a8c8228-4839-4152-a0af-56d15b557fc7" height="60%" width="60%" alt"Disk Sanitization Steps"/>
 </p>
+<p>
 Opening osTicket is relatively simple, you just have to click on this link on the main page of the website. Once done it will navigate to the following page, where you will click on 'sign in' in the upper right hand corner.
+</p>
 <p>
 <h4>Step 2: Sign In</h4>
 </p>
@@ -49,7 +51,6 @@ Opening osTicket is relatively simple, you just have to click on this link on th
 When you get to this page you will want to click on 'sign in' next to 'I'm an agent." Once you click on that you can sign in using the credentials you created before.
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/eeecc494-695b-452a-a755-251af410972b" height="60%" width="60%"
-"
 </p>
 
 <h3>Configuring Roles</h3>
