@@ -57,10 +57,13 @@ When you get to this page you will want to click on 'sign in' next to 'I'm an ag
 
 <h3>Configuring Roles</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Within osTicket there is a plethora of roles that can be added and changed at any given time. For this example we are going to create the 'Supreme Admin' Role. This role will be exactly what you think it is. A user with the ability to do absolutely everything. First things first we have to get to the roles portion of the website, for that you will first have to go to the "Admin Panel" as shown below.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in volupate velit esse cillum dolore eu fugiat nulla pariatur.
+<h4>Admin Panel</h4>
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.pmg" height="60%" width="60%"
 </p>
 
 <h3>Configuring Departments</h3>
