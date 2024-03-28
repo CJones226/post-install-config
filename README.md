@@ -65,6 +65,13 @@ Within osTicket there is a plethora of roles that can be added and changed at an
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/f96760f4-3700-478b-b519-136e73b119b9" height="60%" width="60%"
 </p>
+<p>
+<h4>Agent Panel</h4>
+</p>
+<p>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/ad11b598-9037-48c6-8f7a-2c03df32dc7f" height="60%" width="60%"
+
+</p>
 
 <h3>Configuring Departments</h3>
 <p>
