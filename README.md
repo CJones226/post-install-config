@@ -66,6 +66,9 @@ Within osTicket there is a plethora of roles that can be added and changed at an
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/f96760f4-3700-478b-b519-136e73b119b9" height="60%" width="60%"
 </p>
 <p>
+Once that is done you can navigate to the Agent Panel
+</p>
+<p>
 <h4>Agent Panel</h4>
 </p>
 <p>
