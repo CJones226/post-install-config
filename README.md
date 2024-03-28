@@ -47,6 +47,10 @@ Opening osTicket is relatively simple, you just have to click on this link on th
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/aa4678ed-04c5-40c9-a0fc-54aa4a468746" height="60%" width="60%"
 </p>
 When you get to this page you will want to click on 'sign in' next to 'I'm an agent." Once you click on that you can sign in using the credentials you created before.
+<p>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/eeecc494-695b-452a-a755-251af410972b" height="60%" width="60%"
+"
+</p>
 
 <h3>Configuring Roles</h3>
 <p>
