@@ -78,9 +78,12 @@ Once that is done you can navigate to the Agent Panel Then Roles
 <h4>Roles</h4>
 </p>
 <p>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/863f10f8-450d-401c-8c30-68a33327bfa5" height="60%" width="60%"
+</p>
+<p>
 
 </p>
-
+  
 <h3>Configuring Departments</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
