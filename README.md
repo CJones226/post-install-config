@@ -96,6 +96,7 @@ Once you click on that you can name it "Supreme Admin" then activate all permiss
 <h4>Permissions</h4>
 </p>
 <p>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/856bbb87-fa7e-4d45-b2b3-9278f1b93418" height="60%" width="60%"
 
 </p>
 
