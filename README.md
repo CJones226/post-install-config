@@ -88,6 +88,14 @@ Once there you can add the role 'Supreme Admin' obviously the permissions that t
 </p>
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/d9b92109-f6bd-45bf-832e-44e047da1565" height="60%" width="60%"
+</p>
+<p>
+Once you click on that you can name it "Supreme Admin" then activate all permissions.
+</p>
+<p>
+<h4>Permissions</h4>
+</p>
+<p>
 
 </p>
 
