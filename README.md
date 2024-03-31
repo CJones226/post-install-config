@@ -87,6 +87,7 @@ Once there you can add the role 'Supreme Admin' obviously the permissions that t
 <h4>Add Role</h4>  
 </p>
 <p>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/d9b92109-f6bd-45bf-832e-44e047da1565" height="60%" width="60%"
 
 </p>
 
