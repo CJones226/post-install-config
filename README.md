@@ -122,10 +122,10 @@ Teams is similar to the department tab but adds the ability to make severity tea
 
 <h3>Configuring Agents</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/post-install-config/blob/main/New%20Agents.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within in the agents tab you will be able to add new agents that can be dispersed within the teams and departments. You will also want to ensure that you have set up "Require Registration"
 </p>
 <br />
 
