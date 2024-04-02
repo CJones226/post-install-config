@@ -113,10 +113,10 @@ Configuring departments is just as simple as adding new permissions. You simply 
 
 <h3>Configuring Teams</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/22822660-6600-4f60-b70e-6e69c1ca21fa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Teams is similar to the department tab but adds the ability to make severity teams within departments to deal with tickets that are more or less severe.
 </p>
 <br />
 
