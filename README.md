@@ -137,7 +137,7 @@ Within in the agents tab you will be able to add new agents that can be disperse
 Configuring users is how you add and remove people who have access to creating tickets. Say, someone in accounting, or sales. This is how you add those people, so that if they have a problem they can send the ticket directly to the system. Before you configure that, you will want to setup "Require Registration."
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%"
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/35424811-a734-4be8-baf7-508e48fbbf51" height="60%" width="60%"
 </p>
 <br />
 
