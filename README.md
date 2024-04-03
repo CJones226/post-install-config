@@ -164,6 +164,6 @@ Service Level Agreements dictate the level of service that each ticket will requ
 Configuring this panel allows users to select topic that can be automatically distributed to departments and given a severity level. I added 4 new ones for this example.
 </p>
 <p>
-<img src="https://github.com/CJones226/post-install-config/assets/158533476/0dd1aa0-28e2-4188-a8c9-cb013acbb2ac" height="60%" width="60%"
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/7e699af6-a62c-407d-bdd4-dfda01a334bd" height="60%" width="60%"
 </p>
 <br />
