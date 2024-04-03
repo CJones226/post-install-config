@@ -158,9 +158,12 @@ Service Level Agreements dictate the level of service that each ticket will requ
 
 <h3>Configuring Help Topics</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/0ddb1aa0-28e2-4188-a8c9-cb013acbb2ac" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring this panel allows users to select topic that can be automatically distributed to departments and given a severity level.
+Configuring this panel allows users to select topic that can be automatically distributed to departments and given a severity level. I added 4 new ones for this example.
+</p>
+<p>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/0dd1aa0-28e2-4188-a8c9-cb013acbb2ac" height="60%" width="60%"
 </p>
 <br />
