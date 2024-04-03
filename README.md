@@ -149,10 +149,10 @@ I added these users with the email @needhelp.com
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/3d0e087c-c05c-4054-a674-0116b15992fb" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Service Level Agreements dictate the level of service that each ticket will require. For this session I created three new ones.
+Service Level Agreements dictate the level of service that each ticket will require. For this session I created three new ones: Sev-A, Sev-B, and Sev-C. Each one has varying times and priorities. This is how each new ticket will be assessed.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%"
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/96edbeb0-a58d-42eb-8ca1-69698c4e7a96" height="60%" width="60%"
 </p>
 <br />
 
@@ -161,6 +161,6 @@ Service Level Agreements dictate the level of service that each ticket will requ
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring this panel allows users to select topic that can be automatically distributed to departments and given a severity level.
 </p>
 <br />
