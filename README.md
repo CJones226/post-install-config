@@ -139,6 +139,9 @@ Configuring users is how you add and remove people who have access to creating t
 <p>
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/c3b76397-0b56-4862-9bb3-71e9c20a4f80" height="60%" width="60%"
 </p>
+<p>
+I added these users with the email @needhelp.com
+</p>
 <br />
 
 <h3>Configuring SLA</h3>
