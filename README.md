@@ -149,7 +149,10 @@ I added these users with the email @needhelp.com
 <img src="https://github.com/CJones226/post-install-config/assets/158533476/3d0e087c-c05c-4054-a674-0116b15992fb" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Service Level Agreements dictate the level of service that each ticket will require. For this session I created three new ones.
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%"
 </p>
 <br />
 
