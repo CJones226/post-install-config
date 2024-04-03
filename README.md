@@ -104,7 +104,7 @@ Once done you have successfully learned how to add new roles, and they are simpl
 
 <h3>Configuring Departments</h3>
 <p>
-<img src="https://github.com/CJones226/post-install-config/assets/158533476/b15365de-2e4d-4a3d-9fde-eed0578ed475" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/b15365de-2e4d-4a3d-9fde-eed0578ed475" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configuring departments is just as simple as adding new permissions. You simply navigate to the 'Departments' section and add a new one. This is important, because not every issue can or should be handled by a single department.
@@ -113,7 +113,7 @@ Configuring departments is just as simple as adding new permissions. You simply 
 
 <h3>Configuring Teams</h3>
 <p>
-<img src="https://github.com/CJones226/post-install-config/assets/158533476/22822660-6600-4f60-b70e-6e69c1ca21fa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/22822660-6600-4f60-b70e-6e69c1ca21fa" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Teams is similar to the department tab but adds the ability to make severity teams within departments to deal with tickets that are more or less severe.
@@ -122,7 +122,7 @@ Teams is similar to the department tab but adds the ability to make severity tea
 
 <h3>Configuring Agents</h3>
 <p>
-<img src="https://github.com/CJones226/post-install-config/blob/main/New%20Agents.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/post-install-config/blob/main/New%20Agents.JPG?raw=true" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Within in the agents tab you will be able to add new agents that can be dispersed within the teams and departments. Here I added Jane Doe, and John Smith. Both emails matching their names @helper.com, as well as usernames being lowercase e.g. "janedoe"
@@ -131,16 +131,19 @@ Within in the agents tab you will be able to add new agents that can be disperse
 
 <h3>Configuring Users</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CJones226/post-install-config/assets/158533476/90fa2eb2-b5a8-40ed-9b5b-1941fc98dc82" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configuring users is how you add and remove people who have access to creating tickets. Say, someone in accounting, or sales. This is how you add those people, so that if they have a problem they can send the ticket directly to the system. Before you configure that, you will want to setup "Require Registration."
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%"
 </p>
 <br />
 
 <h3>Configuring SLA</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
